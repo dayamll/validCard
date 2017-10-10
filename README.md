@@ -92,9 +92,9 @@ Se obtendrá: [5, 0, 7, 1, 2, 9, 7, 5, 1, 6, 2, 2, 5, 7, 9, 4 ]
 
 * Debemos multiplicador x2 a las posiciones impares de nuestro array, teniendo encuenta que inicializamos con i = 0, para ello hacemos un if.
 
-![validcard](assets/docs/indice.png)
+![imagen](assets/docs/indice.png)
 
-![validcard](assets/docs/indicemulti.png)
+![imagen](assets/docs/indicemulti.png)
 
 * Despues debeos sumar los digitos de los resultos, es decir, si en mi posición i=5, obtengo un digito de dos cifras debo sumar 1 + 8, y como lo hacemos, separando el número asi:
 
@@ -113,7 +113,7 @@ En código será asi:
 
 ojo: lo que ejecuta el IF será la suma de los digitos, almacenado en el mismo array.
 
-![validcard](assets/docs/indice2.png)			
+![imagen](assets/docs/indice2.png)			
 
 * Debemos obtener la suma de digitos, para ellos utilizaremos nuestro acumulador sum, creado anteriormente
 
