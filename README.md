@@ -9,6 +9,7 @@
 
 ### 1. DIAGRAMA DE FLUJO
 
+![validcard](assets/docs/diagramaFlujoCard.png)
 [diagramaflujo](https://ibb.co/dy78qb)
 
 ### 2. PSEUDOCÓDIGO
